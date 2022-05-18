@@ -1,6 +1,7 @@
 # CSCI232 Spring 2022 - Project 1
 SQL code to create and manipulate a database based off a dataset. 
 The dataset of NYC Hate Crimes was from NYC OpenData: https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78/data
+
 Figma of the database: https://www.figma.com/file/YWUzPzbiny3tlHMx5OCk4q/CSCI232_Project-1?node-id=411%3A417
 
 ## Usage
