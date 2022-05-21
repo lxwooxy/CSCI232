@@ -51,3 +51,4 @@ Output
  DANGEROUS WEAPONS              |       2 |       2 |          0
 (17 rows)
 ```
+Team: Obinna, Rei, Georgina
