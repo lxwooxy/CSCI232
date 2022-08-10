@@ -1,3 +1,4 @@
+#making sql detectable for linguist library
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 *.sql text
